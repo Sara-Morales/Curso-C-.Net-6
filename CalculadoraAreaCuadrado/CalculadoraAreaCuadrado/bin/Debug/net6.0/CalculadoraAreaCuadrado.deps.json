@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculadoraAreaCuadrado/1.0.0": {
+        "runtime": {
+          "CalculadoraAreaCuadrado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraAreaCuadrado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\bin\Debug\net6.0\CalculadoraAreaCuadrado.exe
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\bin\Debug\net6.0\CalculadoraAreaCuadrado.deps.json
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\bin\Debug\net6.0\CalculadoraAreaCuadrado.runtimeconfig.json
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\bin\Debug\net6.0\CalculadoraAreaCuadrado.dll
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\bin\Debug\net6.0\CalculadoraAreaCuadrado.pdb
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.dll
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\refint\CalculadoraAreaCuadrado.dll
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.pdb
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\CalculadoraAreaCuadrado.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\CalculadoraAreaCuadrado\CalculadoraAreaCuadrado\obj\Debug\net6.0\ref\CalculadoraAreaCuadrado.dll

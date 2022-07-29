@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\Pilas\Pilas\bin\Debug\net6.0\Pilas.exe
+C:\Users\USUARIO\source\repos\Pilas\Pilas\bin\Debug\net6.0\Pilas.deps.json
+C:\Users\USUARIO\source\repos\Pilas\Pilas\bin\Debug\net6.0\Pilas.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Pilas\Pilas\bin\Debug\net6.0\Pilas.dll
+C:\Users\USUARIO\source\repos\Pilas\Pilas\bin\Debug\net6.0\Pilas.pdb
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.dll
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\refint\Pilas.dll
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.pdb
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\Pilas.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Pilas\Pilas\obj\Debug\net6.0\ref\Pilas.dll
